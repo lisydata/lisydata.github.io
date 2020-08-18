@@ -28,6 +28,10 @@
 
   `thread -n 10`
 
+- watch
+
+   `watch 全路径 方法名 returnObj`
+
 - 反编译
 
    `jad demo.MathGame`
